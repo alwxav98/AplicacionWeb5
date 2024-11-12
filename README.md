@@ -30,8 +30,9 @@ To run the PHP application, make sure you have a local server like XAMPP or MAMP
 1.Open your terminal and navigate to the project directory.
 2. Start the PHP built-in server:
    ```bash
-   php -S localhost:8000
+   php -S localhost:8080
    ```
+3. Visit http://localhost:8080 in your browser to view the application.
 
 
 ## Contribution
